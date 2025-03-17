@@ -13,6 +13,10 @@ Pydantic is used for data model validation and SqlAlchemy is used for interactin
 
 The program consists of three python files. main.py, DataModel.py and DbTable.py
 
+Use the following to command to run this program.
+
+python main.py
+
 The database file will be generated in the same folder where this program is placed. After running main.py, You can use the SQLite browser utility program to inspect the database file.
 
 Please let me know if you have any questions.
