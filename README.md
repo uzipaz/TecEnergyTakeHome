@@ -6,6 +6,7 @@ The program uses the SQLite database for inserting into a SQL database.
 You will need to install two python libraries Pydantic and SQLAlchemy to run this program. You can use the following commands.
 
 pip install pydantic
+
 pip install sqlalchemy
 
 Pydantic is used for data model validation and SqlAlchemy is used for interacting with SQL databases.
